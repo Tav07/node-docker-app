@@ -66,4 +66,5 @@ Hello, Docker!
 **DockerHub Username:** `tav07`
 
 ## GitHub Repository
-After pushing, the repository URL will be: `https://github.com/Tav07/node-docker-app`
+
+**Repository URL:** https://github.com/Tav07/node-docker-app
