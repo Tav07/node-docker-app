@@ -1,7 +1,7 @@
 # Docker Exercise Evidence
 
 ## DockerHub Username
-**Tu username de DockerHub debe ir aquí** (necesitas crear una cuenta en https://hub.docker.com si no tienes una)
+**DockerHub Username:** `tav07`
 
 ## Command Evidence
 
@@ -51,14 +51,19 @@ PS C:\Users\Gustavo\Desktop\node-docker-app> curl http://localhost:3000
 Hello, Docker!
 ```
 
-## Screenshots Required
-Please take screenshots of:
-1. **Docker Desktop** - Showing it's installed and running
-2. **Terminal/PowerShell** - With the commands visible and your Windows username visible
-3. **Browser** - Open http://localhost:3000 showing "Hello, Docker!"
+## Screenshots
+
+### 1. Docker Desktop Installed and Running
+![Docker Desktop](Evidencia%20dockerdesktop.png)
+
+### 2. PowerShell Commands
+![PowerShell Commands](Evidencia%20powershell.png)
+
+### 3. Browser - Hello Docker!
+![Browser Hello Docker](Evidencia%20localhost.png)
 
 ## DockerHub Username
-Enter your DockerHub username here: `_________________`
+**DockerHub Username:** `tav07`
 
 ## GitHub Repository
 After pushing, the repository URL will be: `https://github.com/Tav07/node-docker-app`
